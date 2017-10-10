@@ -1,0 +1,20 @@
+name: KemalTest
+version: 0.1.0
+
+authors:
+  - obcilion <raymond.gulbrandsen@shortcut.no>
+
+targets:
+  KemalTest:
+    main: src/KemalTest.cr
+
+dependencies:
+  kemal:
+    github: kemalcr/kemal
+  icr:
+    github: crystal-community/icr
+    branch: master
+
+crystal: 0.21.1
+
+license: MIT
