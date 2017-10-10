@@ -4,7 +4,7 @@ TODO: Write a description here
 
 ## Installation
 
-TODO: Write installation instructions here
+Heroku instance created with command `heroku create --buildpack https://github.com/crystal-lang/heroku-buildpack-crystal.git`
 
 ## Usage
 
@@ -24,4 +24,4 @@ TODO: Write development instructions here
 
 ## Contributors
 
-- [[your-github-name]](https://github.com/[your-github-name]) obcilion - creator, maintainer
+- [[obcilion]](https://github.com/[obcilion]) - creator, maintainer
