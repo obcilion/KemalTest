@@ -1,9 +1,5 @@
 version: 1.0
 shards:
-  icr:
-    github: crystal-community/icr
-    commit: cba9fe891a7148fc7a1fabdd4a4f67d128940b64
-
   kemal:
     github: kemalcr/kemal
     version: 0.21.0

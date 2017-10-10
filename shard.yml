@@ -11,9 +11,6 @@ targets:
 dependencies:
   kemal:
     github: kemalcr/kemal
-  icr:
-    github: crystal-community/icr
-    branch: master
 
 crystal: 0.21.1
 
